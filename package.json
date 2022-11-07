@@ -3,10 +3,27 @@
   "description": "A Custom React Typescript hooks for interacting with Hubspot Submissions API",
   "version": "1.0.0",
   "main": "index.js",
+  "module": "./dist/esm/index.js",
+  "types": "./dist/esm/index.d.ts",
   "scripts": {
     "build": "tsc"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/topfullstackdev/hubspot-submissions-api.git"
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "react typescript",
+    "react-hook",
+    "submissions",
+    "form",
+    "hubspot",
+    "hubspot-api",
+    "hubspot-form",
+    "hubspot-submissions"
+  ],
   "author": "Jouji Yoshino",
   "license": "MIT",
   "devDependencies": {
