@@ -1,0 +1,19 @@
+{
+  "name": "hubspot-submissions-api",
+  "description": "A Custom React Typescript hooks for interacting with Hubspot Submissions API",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "Jouji Yoshino",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^18.0.25",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "tslib": "^2.4.1",
+    "typescript": "^4.8.4"
+  }
+}
