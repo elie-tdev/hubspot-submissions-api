@@ -2,7 +2,7 @@ import { useState, useEffect, useMemo } from "react";
 
 interface Field {
   name: string;
-  value: string;
+  value: any;
 }
 
 interface DataType {
